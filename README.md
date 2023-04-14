@@ -1,10 +1,5 @@
 # RICorDE
 
-A tool to develop gridded flood depth estimates from satellite derived inundations.
+RICorDE produces gridded water depth estimates from flood inundation data by incorporating a HAND sub-model and cost distancing algorithms to extrapolate edge values into the inundated region. 
 
-To learn more, see [our article in NHESS](https://nhess.copernicus.org/preprints/nhess-2021-275/)
-
-## Updates
-- 2023-04-07: Working on migrating the repo and making it public. stay tuned!
-
-Check back here for updates
+RICorDE has moved and now lives on [NRCan's GitHub ](https://github.com/NRCan/RICorDE/tree/main)
